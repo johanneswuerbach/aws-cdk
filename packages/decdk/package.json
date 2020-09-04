@@ -187,7 +187,7 @@
     "yargs": "^15.4.1"
   },
   "devDependencies": {
-    "@types/fs-extra": "^8.1.1",
+    "@types/fs-extra": "^9.0.1",
     "@types/jest": "^26.0.10",
     "@types/yaml": "1.9.7",
     "@types/yargs": "^15.0.5",
